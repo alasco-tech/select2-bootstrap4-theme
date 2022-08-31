@@ -1,6 +1,6 @@
 {
-    "name": "ttskch/select2-bootstrap4-theme",
-    "description": "Select2 v4 theme for Bootstrap4",
+    "name": "alasco-tech/select2-bootstrap4-theme",
+    "description": "Select2 v4 theme for Bootstrap4 (maintenance fork of @ttskch/select2-bootstrap4-theme)",
     "keywords": [
         "select2",
         "theme",

@@ -1,3 +1,8 @@
+# MAINTENANCE FORK
+
+This is a fork for specific maintenance issues for our usage; please contribute
+to the upstream project and not this one.
+
 # select2-bootstrap4-theme
 
 [![npm version](https://img.shields.io/npm/v/@ttskch/select2-bootstrap4-theme.svg?style=flat-square)](https://www.npmjs.com/package/@ttskch/select2-bootstrap4-theme)
